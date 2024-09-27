@@ -5,4 +5,4 @@
 ## Ayarlanabilir komutlar menüsü
 
 
-owner: Telegram @birsamil
+owner: Telegram @kurucu_sahipp
