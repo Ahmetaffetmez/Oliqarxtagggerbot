@@ -45,7 +45,7 @@ client = TelegramClient("Samil", api_id, api_hash).start(bot_token=bot_token)
 
 USERNAME = ("çıtırsuetiketbot") #botunuzun kullanıcı adı ("@Citirsu_etiket_bot")
 log_qrup = "1001906045085", #log qrupunuzun idsi
-startmesaj = "💌 arkadaşlarınızı nasıl etiketlemek istersiniz ...\n📚 ben gruplarınız için Ahmet tarafından özel geliştirilen bir botum" #start mesajınız
+startmesaj = "💌 arkadaşlarınızı nasıl etiketlemek istersiniz ...\n📚 ben gruplarınız için "Ahmet tarafından özel geliştirilen bir botum" #start mesajınız
 komutlar = "🇦🇿 Bütün etiketler ;\n\n» /utag   <  mesaj  >\n   - üyeleri 5'li etiketler .\n\n» /tag   <  mesaj  >\n   - üyeleri tek tek etiketler .\n\n» /atag   <  mesaj  >\n   - Adminleri etiketler .\n\n» /etag   <  mesaj  >\n   - üyeleri emoji ile etiketler .\n\n» /stag   <  mesaj  >\n   - üyeleri güzel söz ile etiketler .\n\n» /cancel = >\n   - etiketleme işlemi durdurulur ." #komutların olduğu mesaj
 qrupstart = "• şuan aktif çalışmaktayım  . . .\n\n• üyeleri etiketlemek için grubunuza ekleyin . . ." #aktif olduğunda gruba gelen mesaj
 support = "affetmezler_sohbet" #destek qrupunuzun kullanıcı adı
