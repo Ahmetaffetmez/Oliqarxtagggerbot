@@ -39,7 +39,7 @@ import random
 # 
 api_id = "23342734" #my.telegram.org/apps adresinden alabilirsiniz 
 api_hash = "82ff606d717557e233b3bfdf82e0e74e" #my.telegram.org/apps adresinden alabilirsiniz
-bot_token = "7641153006:AAFQLhbuRFd-tMft0bHODeV-svrDBwD0yo0" #botfatherdan alabilirsiniz
+bot_token = "7641153006:AAEQlh44webKoTmwVn0A2ouM7gEXNcqiiS0" #botfatherdan alabilirsiniz
 
 client = TelegramClient("Samil", api_id, api_hash).start(bot_token=bot_token)
 
