@@ -39,17 +39,17 @@ import random
 # 
 api_id = "23342734" #my.telegram.org/apps adresinden alabilirsiniz 
 api_hash = "82ff606d717557e233b3bfdf82e0e74e" #my.telegram.org/apps adresinden alabilirsiniz
-bot_token = "7919330547:AAFLHZdwEonDSUtvjzzmRX9dAmtL6VSOmK8" #botfatherdan alabilirsiniz
+bot_token = "7120940125:AAESL30SRo8CFIooHy7J2KYiyv7KYL5qn8M" #botfatherdan alabilirsiniz
 
 client = TelegramClient("Samil", api_id, api_hash).start(bot_token=bot_token)
 
-USERNAME = "@matmazel_tag_bot" #botunuzun kullanıcı adı 
+USERNAME = "@Sohbet_oyunbot" #botunuzun kullanıcı adı 
 log_qrup = "1001906045085", #log qrupunuzun idsi
 startmesaj = "💌 arkadaşlarınızı nasıl etiketlemek istersiniz ...\n📚 ben gruplarınız için seline özel geliştirilen bir botum" #start mesajınız
 komutlar = "🇦🇿 Bütün etiketler ;\n\n» /utag   <  mesaj  >\n   - üyeleri 5'li etiketler .\n\n» /tag   <  mesaj  >\n   - üyeleri tek tek etiketler .\n\n» /atag   <  mesaj  >\n   - Adminleri etiketler .\n\n» /etag   <  mesaj  >\n   - üyeleri emoji ile etiketler .\n\n» /stag   <  mesaj  >\n   - üyeleri güzel söz ile etiketler .\n\n» /cancel = >\n   - etiketleme işlemi durdurulur ." #komutların olduğu mesaj
 qrupstart = "• şuan aktif çalışmaktayım  . . .\n\n• üyeleri etiketlemek için grubunuza ekleyin . . ." #aktif olduğunda gruba gelen mesaj
-support = "affetmezler_sohbet" #destek qrupunuzun kullanıcı adı
-sahib = "kurucu_sahipp" #sahibinizin kullanıcı adı
+support = "https://t.me/sohbetveoyuntr" #destek qrupunuzun kullanıcı adı
+sahib = "kasapAlp" #sahibinizin kullanıcı adı
 noadmin = "➻ Üzgünüm Ama Yönetici Değilsiniz ." #yönetici olmayanlar için mesaj
 
 #
