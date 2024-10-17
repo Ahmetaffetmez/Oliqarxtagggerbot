@@ -544,7 +544,7 @@ async def rtag(event):
         await event.respond("⛔ üyeleri etiketleme işlemi durduruldu ...",
                     buttons=(
                       [
-                       Button.url('📝  𝖪ANAL  📝', f'https://t.me/sohbetveoyuntr')
+                       Button.url('📝  𝖪ANAL  📝', f'https://t.me/affetmezler_sohbet')
                       ]
                     )
                   )
