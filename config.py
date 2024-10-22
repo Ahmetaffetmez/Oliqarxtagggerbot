@@ -43,7 +43,7 @@ bot_token = "7960201031:AAGZU-zdVHL88M1YhuyG67Yt-jj4qbt97ms" #botfatherdan alabi
 
 client = TelegramClient("Samil", api_id, api_hash).start(bot_token=bot_token)
 
-USERNAME = "@affetmezlertag_bot" #botunuzun kullanıcı adı 
+USERNAME = "Zarina_etiket_bot" #botunuzun kullanıcı adı 
 log_qrup = "1001906045085", #log qrupunuzun idsi
 startmesaj = "💌 arkadaşlarınızı nasıl etiketlemek istersiniz ...\n📚 ben gruplarınız için Ahmet tarafından özel geliştirilen bir botum" #start mesajınız
 komutlar = "🇦🇿 Bütün etiketler ;\n\n» /utag   <  mesaj  >\n   - üyeleri 5'li etiketler .\n\n» /tag   <  mesaj  >\n   - üyeleri tek tek etiketler .\n\n» /atag   <  mesaj  >\n   - Adminleri etiketler .\n\n» /etag   <  mesaj  >\n   - üyeleri emoji ile etiketler .\n\n» /stag   <  mesaj  >\n   - üyeleri güzel söz ile etiketler .\n\n» /cancel = >\n   - etiketleme işlemi durdurulur ." #komutların olduğu mesaj
