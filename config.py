@@ -39,11 +39,11 @@ import random
 # 
 api_id = "23342734" #my.telegram.org/apps adresinden alabilirsiniz 
 api_hash = "82ff606d717557e233b3bfdf82e0e74e" #my.telegram.org/apps adresinden alabilirsiniz
-bot_token = "7514400280:AAHVfeDPMNoZ2fn83oGxm8s2KFjn3lb3FhY" #botfatherdan alabilirsiniz
+bot_token = "7972516156:AAEL7XQIG_4xu8WH672koW8ksnxJg89UNYw" #botfatherdan alabilirsiniz
 
 client = TelegramClient("Samil", api_id, api_hash).start(bot_token=bot_token)
 
-USERNAME = "Olendir_etiket_bot" #botunuzun kullanıcı adı 
+USERNAME = "Canerinqo_bot" #botunuzun kullanıcı adı 
 log_qrup = "-1001906045085", #log qrupunuzun idsi
 startmesaj = "💌 arkadaşlarınızı nasıl etiketlemek istersiniz ...\n📚 ben gruplarınız için ahmet tarafından özel geliştirilen bir botum" #start mesajınız
 komutlar = "🇦🇿 Bütün etiketler ;\n\n» /utag   <  mesaj  >\n   - üyeleri 5'li etiketler .\n\n» /tag   <  mesaj  >\n   - üyeleri tek tek etiketler .\n\n» /atag   <  mesaj  >\n   - Adminleri etiketler .\n\n» /etag   <  mesaj  >\n   - üyeleri emoji ile etiketler .\n\n» /stag   <  mesaj  >\n   - üyeleri güzel söz ile etiketler .\n\n» /cancel = >\n   - etiketleme işlemi durdurulur ." #komutların olduğu mesaj
